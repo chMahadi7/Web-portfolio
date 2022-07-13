@@ -24,7 +24,7 @@ p{
       width: 100%;
 }
 .Top-site{
-     background-image: url("../image/top-banner.png");
+     background-image: url("Image/top-banner.png");
      background-repeat: no-repeat;
 }
 section{
@@ -40,7 +40,7 @@ section{
     font-weight: 700;
 }
 .dream{
-    background-image: url("../image/dream-bg.png") ;
+    background-image: url("Image/dream-bg.png") ;
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -51,7 +51,7 @@ section{
     background-color: white;
 }
 .experiences{
-    background-image: url("../Image/exp-bg.png");
+    background-image: url("Image/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
 }
